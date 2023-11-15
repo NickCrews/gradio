@@ -1,17 +1,24 @@
 # website
 
+## 0.14.1
+
+### Patch Changes
+
+- Updated dependencies []:
+  - @gradio/code@0.2.6
+
 ## 0.14.0
 
 ### Features
 
-- [#6387](https://github.com/gradio-app/gradio/pull/6387) [`9d6d72f44`](https://github.com/gradio-app/gradio/commit/9d6d72f44370c45d9e213421a5586c25c5789278) - Tiny fix to indent on landing page demo.  Thanks [@aliabd](https://github.com/aliabd)!
-- [#6344](https://github.com/gradio-app/gradio/pull/6344) [`747197089`](https://github.com/gradio-app/gradio/commit/7471970894e999f335126766549552184231e8ea) - PDF component custom component guide.  Thanks [@freddyaboulton](https://github.com/freddyaboulton)!
+- [#6387](https://github.com/gradio-app/gradio/pull/6387) [`9d6d72f44`](https://github.com/gradio-app/gradio/commit/9d6d72f44370c45d9e213421a5586c25c5789278) - Tiny fix to indent on landing page demo. Thanks [@aliabd](https://github.com/aliabd)!
+- [#6344](https://github.com/gradio-app/gradio/pull/6344) [`747197089`](https://github.com/gradio-app/gradio/commit/7471970894e999f335126766549552184231e8ea) - PDF component custom component guide. Thanks [@freddyaboulton](https://github.com/freddyaboulton)!
 
 ## 0.13.0
 
 ### Features
 
-- [#6351](https://github.com/gradio-app/gradio/pull/6351) [`294414d9f`](https://github.com/gradio-app/gradio/commit/294414d9f7b53da1a870d2d96e62a75242b40849) - Add sharing to playground.  Thanks [@aliabd](https://github.com/aliabd)!
+- [#6351](https://github.com/gradio-app/gradio/pull/6351) [`294414d9f`](https://github.com/gradio-app/gradio/commit/294414d9f7b53da1a870d2d96e62a75242b40849) - Add sharing to playground. Thanks [@aliabd](https://github.com/aliabd)!
 
 ## 0.12.1
 

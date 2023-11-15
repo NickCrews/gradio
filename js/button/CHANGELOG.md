@@ -1,5 +1,12 @@
 # @gradio/button
 
+## 0.2.6
+
+### Patch Changes
+
+- Updated dependencies []:
+  - @gradio/upload@0.4.2
+
 ## 0.2.5
 
 ### Patch Changes
